@@ -10,7 +10,11 @@ This is a **mobile app UI design** for an IceCream ordering application, created
 ---
 
 ### 🖼️ Preview
-![IceCream App Preview](https://github.com/user-attachments/assets/ad0012f0-c81d-47f9-9cac-e002d3977aec)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb84f222-f946-4aa6-bbeb-54186c8eaff7" alt="Start" width="200" />
+  <img src="https://github.com/user-attachments/assets/1def0681-92b4-473f-8849-84b879d2ad93" alt="Home" width="200" />
+  <img src="https://github.com/user-attachments/assets/e305e5d1-a3b8-4dba-9ccf-d849a22b4933" alt="Product" width="200" />
+</p>
 
 ---
 
